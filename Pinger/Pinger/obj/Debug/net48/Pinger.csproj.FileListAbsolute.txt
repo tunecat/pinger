@@ -1,0 +1,9 @@
+C:\Users\Nikita\Desktop\SingletonTestTasks\Pinger\Pinger\bin\Debug\net48\Pinger.exe.config
+C:\Users\Nikita\Desktop\SingletonTestTasks\Pinger\Pinger\bin\Debug\net48\Pinger.exe
+C:\Users\Nikita\Desktop\SingletonTestTasks\Pinger\Pinger\bin\Debug\net48\Pinger.pdb
+C:\Users\Nikita\Desktop\SingletonTestTasks\Pinger\Pinger\obj\Debug\net48\Pinger.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\SingletonTestTasks\Pinger\Pinger\obj\Debug\net48\Pinger.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\SingletonTestTasks\Pinger\Pinger\obj\Debug\net48\Pinger.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\SingletonTestTasks\Pinger\Pinger\obj\Debug\net48\Pinger.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\SingletonTestTasks\Pinger\Pinger\obj\Debug\net48\Pinger.exe
+C:\Users\Nikita\Desktop\SingletonTestTasks\Pinger\Pinger\obj\Debug\net48\Pinger.pdb
