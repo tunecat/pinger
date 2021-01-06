@@ -2,7 +2,6 @@
 var express = require("express");
 var statusCode = 200;
 
-const http = require("http");
 var app = express();
 app.set("port", 8080);
 
@@ -41,7 +40,3 @@ function testPingingSuccessAfterFailure(res) {
     n = 0;
   }
 }
-
-// Start the server on port 3000
-app.listen(8080, "localhost");
-console.log("Node server running on port 8080");
